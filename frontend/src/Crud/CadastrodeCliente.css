@@ -1,0 +1,26 @@
+form {
+    color: black;
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+  
+  input {
+    color: black;
+    background-color: #DCDCDC;
+    width: 200px;
+    font-size: large;
+    border-radius: 10px;
+  }
+  
+  input:hover {
+    background-color: #2E2E2E;
+    cursor: pointer;
+  }
+  
+  label {
+    font-size: 19px;
+  }
+  

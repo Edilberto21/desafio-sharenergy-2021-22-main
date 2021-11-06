@@ -1,0 +1,22 @@
+p  {
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+}
+select {
+    background-color: #DCDCDC;
+}
+div {
+    background-color: #DCDCDC;
+}
+div table {
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+}
+div th {
+    border: solid black 1px;
+}
+div td {
+    border: solid black 1px;
+}
